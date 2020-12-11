@@ -1,0 +1,34 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	background-image: url('images/back.jpg');
+ }
+ .logo{
+ 	height: 500px;
+ 	width: 500px;
+ }
+ .mediaImg{
+ 	margin-top: 5px;
+ 	width: 50px;
+ 	height: 50px;
+ }
+ .about{
+ 	
+ 	padding-top: 10px;
+ 	left:0;
+ 	right:0;
+ 	margin: 0 auto;
+ }
+ .col-sm-2{
+ 	margin-top: 5px;
+ }
+ .logo{
+
+ 	position: absolute;
+ 	left:0;
+ 	right:0;
+ 	margin: 0 auto;
+ }
+ .psevdo{
+ 	height: 500px;
+ }
